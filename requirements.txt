@@ -1,0 +1,12 @@
+Langchain
+huggingface_hub
+python-pptx
+langchain-huggingface
+langchain_community
+transformers
+streamlit
+
+diffusers
+accelerate
+invisible_watermark
+safetensors
