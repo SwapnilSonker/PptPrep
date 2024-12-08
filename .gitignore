@@ -1,3 +1,7 @@
 .env
 langchain.ipynb
 generated_ppt
+Image_gen.py
+landscape.png
+pokemon.png
+speech.txt
