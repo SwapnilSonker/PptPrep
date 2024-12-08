@@ -15,7 +15,7 @@ import streamlit as st
 
 load_dotenv()
 
-os.environ['HUGGINGFACEHUB_API_TOKEN'] 
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = os.getenv("HUGGINGFACEHUB_API_TOKEN")
 
 def generate_content(name):
     

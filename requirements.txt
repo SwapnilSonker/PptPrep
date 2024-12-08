@@ -10,3 +10,7 @@ diffusers
 accelerate
 invisible_watermark
 safetensors
+
+langchainhub
+wikipedia
+langchain_ollama
